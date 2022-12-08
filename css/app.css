@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 :root {
-  --primaryColor: #0087ef;
+  --primaryColor: #072b49;
   --blueDark: #021727;
   --colorText: #14121a;
   --colorParagraph: #79838b;
@@ -55,7 +55,7 @@ a {
 }
 
 .nav-top .logo-site .block-logo .img-logo img {
-  width: 60px;
+  width: 210px;
 }
 
 .nav-top .logo-site .block-logo .logo-item {
@@ -183,7 +183,7 @@ a {
 }
 
 .nav-bottom .logo-site .block-logo .img-logo img {
-  width: 60px;
+  width: 210px;
 }
 
 .nav-bottom .logo-site .block-logo .logo-item {
@@ -468,7 +468,7 @@ a {
 }
 
 .nav-bottom .block-search .btn {
-  background: var(--redColor);
+  background: var(--primaryColor);
   color: var(--colorWhite);
   padding: 10px 24px;
   font-size: 14px;
@@ -986,6 +986,33 @@ a {
   margin-right: 5px;
 }
 
+.block-about .card {
+  border: none;
+  border-radius: 24px;
+  overflow: hidden;
+  width: 80%;
+  height: 100%;
+  margin-left: auto;
+}
+
+.block-about .card img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 24px;
+  -webkit-transition: all 3s cubic-bezier(0.19, 1, 0.22, 1);
+  transition: all 3s cubic-bezier(0.19, 1, 0.22, 1);
+  display: block;
+}
+
+.block-about .card h5 {
+  color: var(--colorText);
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
 .block-about h2 {
   color: var(--colorText);
   font-size: 2.5vw;
@@ -1043,7 +1070,7 @@ a {
 
 .block-about .btn {
   color: var(--colorWhite);
-  background: var(--redColor);
+  background: var(--primaryColor);
   padding: 12px 34px;
   font-size: 14px;
   font-weight: 600;
@@ -1163,7 +1190,7 @@ a {
 
 .block-doc .btn {
   color: var(--colorWhite);
-  background: var(--redColor);
+  background: var(--primaryColor);
   padding: 12px 34px;
   font-size: 14px;
   font-weight: 600;
@@ -1177,6 +1204,15 @@ a {
   background: var(--primaryColor);
   -webkit-transform: translateY(-5px);
   transform: translateY(-5px);
+}
+
+.banner-sm {
+  height: 170px;
+  background: var(--blueDark);
+}
+
+.banner-sm h2 {
+  color: var(--colorWhite);
 }
 
 .block-commun {
@@ -1697,7 +1733,7 @@ footer .form-control:focus {
     width: 100%;
   }
   .nav-bottom .logo-site .block-logo .img-logo img {
-    width: 50px;
+    width: 210px;
   }
   .nav-bottom .logo-site .block-logo .logo-item span:nth-child(1) {
     font-size: 16px;
