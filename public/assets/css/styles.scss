@@ -29,7 +29,7 @@
  *
  * ---------------------------------- */
 
-$PrimaryColor: #4e86ff;
+$PrimaryColor: #072b49;
 $PrimaryRgbColor: rgb(78, 134, 255);
 $SecondaryColor: #ed1c24;
 $SecondaryRgbColor: #ed1c24;
@@ -147,7 +147,7 @@ a {
 }
 
 .bg-secondary {
-  background-color: $SecondaryColor !important;
+  background-color: $PrimaryColor !important;
 }
 
 .bg-dark {
@@ -1586,7 +1586,7 @@ a {
     height: 0px;
     border-radius: 3px;
     transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
-    background-color: $SecondaryColor;
+    background-color: $PrimaryColor;
   }
 
   &.feel:before, &:hover:before {
