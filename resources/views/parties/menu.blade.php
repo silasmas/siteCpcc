@@ -29,7 +29,7 @@
 
                                     <div class="navbar-header navbar-header-custom">
                                         <!-- start logo -->
-                                        <a href="#" class="navbar-brand logodefault"><img id="logo" src="{{ asset('assets/images/LogoAppCpcc4.png') }}" alt="logo"></a>
+                                        <a href="#" class="navbar-brand logodefault"><img src="{{ asset('assets/images/LogoAppCpcc4.png') }}" alt="logo"></a>
                                         <!-- end logo -->
                                     </div>
 
