@@ -164,6 +164,10 @@ a:hover, a:active {
   background-color: #072b49 !important;
 }
 
+.banner {
+  height: 120vh;
+}
+
 .bg-dark {
   background-color: #072b49 !important;
 }
@@ -649,8 +653,8 @@ a:hover, a:active {
 /* button style */
 .butn {
   background-color: #072b49;
-  -webkit-box-shadow: 5px 4px 13px 0 rgba(0, 0, 0, 0.05);
-          box-shadow: 5px 4px 13px 0 rgba(0, 0, 0, 0.05);
+  -webkit-box-shadow: 5px 4px 13px 0 rgba(78, 134, 255, 0.45);
+          box-shadow: 5px 4px 13px 0 rgba(78, 134, 255, 0.45);
   border: none;
   color: #fff;
   text-align: center;
@@ -681,11 +685,11 @@ a:hover, a:active {
 }
 
 .butn.secondary {
-  background-color: #072b49;
+  background-color: #ed1c24;
 }
 
 .butn.secondary:hover, .butn.secondary:focus, .butn.secondary:active {
-  background: #ed1c24;
+  background: #072b49;
   color: #fff;
 }
 
@@ -866,11 +870,11 @@ a:hover, a:active {
 }
 
 .butn-style1.secondary {
-  background-color: transparent;
+  background-color: #ed1c24;
 }
 
 .butn-style1.secondary:after {
-  background-color: #ed1c24;
+  background-color: #072b49;
 }
 
 .rounded-top-md-right {
@@ -1290,6 +1294,7 @@ a:hover, a:active {
 /*slider fade1*/
 .slider-fade1 .title {
   margin-bottom: 25px;
+  font-size: 3rem;
   -webkit-animation-delay: 0.8s;
           animation-delay: 0.8s;
 }
@@ -2062,7 +2067,7 @@ a:hover, a:active {
 }
 
 .card-style9 .read-more:hover {
-  color: #ed1c24;
+  color: #072b49;
   opacity: 1;
 }
 

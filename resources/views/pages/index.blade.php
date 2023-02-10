@@ -4,7 +4,7 @@
 @section("content")
  <!-- BANNER
         ================================================== -->
-        <section class="top-position p-0">
+        <section class="top-position p-0 banner">
             <div class="container-fluid px-0">
                 <div class="slider-fade1 owl-carousel owl-theme w-100">
                     <div class="item bg-img cover-background pt-6 pb-10 pt-sm-6 pb-sm-14 py-md-16 py-lg-20 py-xxl-24" data-overlay-dark="0" data-background="{{ asset('assets/images/banner/banner-01.jpg') }}">
