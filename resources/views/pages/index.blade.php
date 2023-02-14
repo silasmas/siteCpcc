@@ -7,7 +7,7 @@
         <section class="top-position p-0 banner">
             <div class="container-fluid px-0">
                 <div class="slider-fade1 owl-carousel owl-theme w-100">
-                    <div class="item bg-img cover-background pt-6 pb-10 pt-sm-6 pb-sm-14 py-md-16 py-lg-20 py-xxl-24" data-overlay-dark="0" data-background="{{ asset('assets/images/banner/slide1.jpg') }}">
+                    <div class="item bg-img cover-background pt-6 pb-10 pt-sm-6 pb-sm-14 py-md-16 py-lg-20 py-xxl-24" data-overlay-dark="0" data-background="{{ asset('assets/images/banner/slide3.jpg') }}">
                         <div class="container pt-6 pt-md-0">
                             <div class="row align-items-center">
                                 <div class="col-md-10 col-lg-8 col-xl-7 col-xxl-6 mb-1-9 mb-lg-0 py-6 position-relative">
@@ -23,7 +23,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="item bg-img cover-background pt-6 pb-10 pt-sm-6 pb-sm-14 py-md-16 py-lg-20 py-xxl-24" data-overlay-dark="0" data-background="{{ asset('assets/images/banner/banner-02.jpg') }}">
+                    <div class="item bg-img cover-background pt-6 pb-10 pt-sm-6 pb-sm-14 py-md-16 py-lg-20 py-xxl-24" data-overlay-dark="0" data-background="{{ asset('assets/images/banner/slide2.jpg') }}">
                         <div class="container pt-6 pt-md-0">
                             <div class="row align-items-center">
                                 <div class="col-md-10 col-lg-8 col-xl-7 col-xxl-6 mb-1-9 mb-lg-0 py-6 position-relative">
@@ -40,7 +40,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="item bg-img cover-background pt-6 pb-10 pt-sm-6 pb-sm-14 py-md-16 py-lg-20 py-xxl-24" data-overlay-dark="0" data-background="{{ asset('assets/images/banner/banner-03.jpg') }}">
+                    <div class="item bg-img cover-background pt-6 pb-10 pt-sm-6 pb-sm-14 py-md-16 py-lg-20 py-xxl-24" data-overlay-dark="0" data-background="{{ asset('assets/images/banner/slide.jpg') }}">
                         <div class="container pt-6 pt-md-0">
                             <div class="row align-items-center">
                                 <div class="col-md-10 col-lg-8 col-xl-7 col-xxl-6 mb-1-9 mb-lg-0 py-6 position-relative">
@@ -48,11 +48,7 @@
                                     <h2 class="display-17 display-sm-11 display-md-9 display-lg-8 display-xl-4 mb-3 title">Nos animateurs sont des experts comptable</h2>
                                     <p class="lead w-95 w-md-90 w-lg-85 mb-2-2">
                                         Des formateur telsque le Professeur William MBUYAMBA KALOMBAYI,
-                                        Secrétaire Général du CPCC, Expert-Comptable et Réviseur Comptable IRE/IRC,
-                                        Monsieur NZAILU Benjamin, Président de l’ONEC-RDC,
-                                        Expert-Comptable et Réviseurs d’entreprises/IRC,
-                                        Directeurs de la DGI, Professeurs d’Universités ainsi que les Directeurs,
-                                        Réviseurs Comptables/IRC et Experts Comptables du CPCC.
+                                        Secrétaire Général du CPCC, Expert-Comptable et Réviseur Comptable IRE/IRC...
                                     </p>
                                     <a href="about.html" class="butn shadow-dark me-2 my-1 my-sm-0">
                                         <span>Voir plus</span>
