@@ -417,7 +417,7 @@
 
         <!-- CLIENTS
         ================================================== -->
-        <section class="py-5 wow fadeIn bg-secondary mx-lg-6 rounded-lg" data-wow-delay="100ms">
+        <section class="py-5 wow fadeIn bg-secondary mx-lg-6 rounded-lg" data-wow-delay="100ms" style="background: transparent!important">
             <div class="container-fluid px-sm-14">
                 <div class="owl-carousel owl-theme client-style1 text-center">
                     <div class="image-wrapper">
