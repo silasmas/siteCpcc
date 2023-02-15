@@ -11,12 +11,13 @@
                         <div class="container pt-6 pt-md-0">
                             <div class="row align-items-center">
                                 <div class="col-md-10 col-lg-8 col-xl-7 col-xxl-6 mb-1-9 mb-lg-0 py-6 position-relative">
-                                    <span class="h5 text-secondary">Qui sommes-nous</span>
+                                    <span class="h5 text-secondary">Qui sommes-nous </span>
                                     <h1 class="display-17 display-sm-11 display-md-9 display-lg-8 display-xl-4 mb-3 title">Le Conseil Permanent de la Comptabilité au Congo</h1>
                                     <p class="lead w-95 w-md-90 w-lg-85 mb-2-2">Le CPCC est un organisme technique du Gouvernement Congolais créé par l’Ordonnance n°75-024 du 03 février 1975.</p>
                                     <a href="about.html" class="butn shadow-dark me-2 my-1 my-sm-0">
                                         <span>Voir en detail</span>
                                     </a>
+
                                     <a href="our-core-values.html" class="butn white text-secondary-hover shadow-dark my-1 my-sm-0">Nos formation</a>
                                     <div class="ani-left-right light-title text-dark opacity05 left alt-font">01</div>
                                 </div>
